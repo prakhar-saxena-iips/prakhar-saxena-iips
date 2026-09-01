@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaNnhWvFqaAt7E9fNz5-_kSTwHjAlP5Vug_0ug0pI2N7CrvR1AeheTVR4x&s=10" alt="Profile Views" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaNnhWvFqaAt7E9fNz5-_kSTwHjAlP5Vug_0ug0pI2N7CrvR1AeheTVR4x&s=10"alt="Profile Views" />
 </p>
 
 ---
