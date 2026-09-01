@@ -1,16 +1,52 @@
-## Hi there 👋
+# 🐍 Prakhar Saxena
 
+### *“I am Loki of Asgard, and I am burdened with glorious purposes.”*
 
-**prakhar-saxena-iips/prakhar-saxena-iips** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **MCA Integrated — 5-Year Program**  
+📚 **1st Semester Student**  
+💼 **Current Mission:** Get a job.  
+🐍 **Alias:** Loki of Asgard
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 👋 About Me
 
+Hey! I'm **Prakhar Saxena**, a student currently pursuing my **Integrated MCA (5-Year)**.
+
+I'm at the beginning of my journey into the world of technology, currently learning the fundamentals of programming and trying to figure out which corner of the tech world I want to conquer.
+
+Do I love programming?
+
+**C?** Not really.  
+**Java?** Definitely complicated.  
+**Will I learn them anyway?** Yes. A glorious purpose requires sacrifice. 🫡
+
+My goal is pretty simple:
+
+> **Learn useful skills → Build projects → Become employable → Get a job.**
+
+And perhaps, someday...
+
+> **Conquer Asgard.** 🐍
+
+---
+
+## ⚔️ Current Quests
+
+- 🎓 Survive my MCA journey
+- 💻 Improve my programming fundamentals
+- ☕ Learn C and Java despite our complicated relationship
+- 🧩 Improve my problem-solving skills
+- 🛠️ Build projects and learn by doing
+- 🌱 Explore different areas of technology
+- 💼 **Get a job**
+
+---
+
+## 🧑‍💻 Technologies I'm Learning
+
+```text
+C               🟡 Learning
+Java            🟡 Learning
+Git & GitHub    🟡 Learning
+Problem Solving 🟡 Developing
