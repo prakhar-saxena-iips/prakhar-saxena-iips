@@ -4,7 +4,7 @@
 
 🎓 **MCA Integrated — 5-Year Program**  
 📚 **1st Semester Student**  
-💼 **Current Mission:** Get a job.  
+💼 **Current Mission:** Learn.  
 🐍 **Alias:** Loki of Asgard
 
 ---
