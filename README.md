@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  <img src="https://wallpapercg.com/media/ts_orig/18426.webp" width="800">
+</p> 
+
+<p align="center">
   <i>"I am Loki of Asgard, and I am burdened with glorious purposes."</i>
 </p>
 
