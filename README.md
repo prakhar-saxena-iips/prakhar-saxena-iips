@@ -46,8 +46,10 @@ My main goal is simple:
 
 ```text
 C
-Java
 Git
 GitHub
 Programming Fundamentals
 Problem Solving
+
+
+
