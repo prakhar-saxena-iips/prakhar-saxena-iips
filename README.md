@@ -1,5 +1,7 @@
 # Hi, I'm Prakhar Saxena 👋
 
+<img src="./profile.png" width="180" alt="Prakhar Saxena">
+
 🎓 Pursuing **5-Year Integrated MCA** at **IIPS, DAVV, Indore**
 
 💻 Currently learning and exploring:
